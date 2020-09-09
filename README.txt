@@ -1,0 +1,1 @@
+This project helped me learn how to use an API and get data from it to use in a web application. Thank you! 
